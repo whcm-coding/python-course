@@ -23,4 +23,4 @@ clothes = [
     "doider朵尼丹尔旗舰店",
 ]
 # print(clothes[0][1])
-print_list(clothes)
+# print_list(clothes)
