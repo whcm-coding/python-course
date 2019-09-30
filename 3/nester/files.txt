@@ -1,0 +1,3 @@
+C:\Users\zhuni\AppData\Local\Programs\Python\Python37-32\Lib\site-packages\nester.py
+C:\Users\zhuni\AppData\Local\Programs\Python\Python37-32\Lib\site-packages\__pycache__\nester.cpython-37.pyc
+C:\Users\zhuni\AppData\Local\Programs\Python\Python37-32\Lib\site-packages\nester-1.1.0-py3.7.egg-info
