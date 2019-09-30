@@ -2,7 +2,7 @@
 from distutils.core import setup
 setup(
     name='feelings',
-    version='1.0.0',
+    version='1.0.1',
     py_modules=['feelings'],
     author='crooner',
     author_email='zhunianhhxy@163.com',
